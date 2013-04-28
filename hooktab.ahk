@@ -18,7 +18,7 @@ SetTitleMatchMode, 2 ;设定ahk匹配窗口标题的, 2；便于操作
 DetectHiddenWindows, On ; 检测隐藏的窗口 
 
 Menu,tray,icon,%A_WorkingDir%\hooktab.ico  ; 在窗体创建前显示图标 
-traytip, ,HookTab Start!,2,1
+traytip, ,HookTab Start!哈,2,1
 
 ; config 
 
