@@ -1,6 +1,6 @@
 ;=======================================================================
 ; AutoHotkey Version: 1.x
-; Author:             GefuhlLos gefuhllos@gmail.com
+; Author:             ge4los ge4los@gmail.com
 ; Filename:		hooktab.ahk
 ; Script Function:
 ; Version:
